@@ -1,0 +1,19 @@
+Data Science é uma área interdisciplinar voltada para o estudo e a análise de dados econômicos, financeiros e sociais, estruturados e 
+não-estruturados, que visa a extração de conhecimento, detecção de padrões e/ou obtenção de insights para possíveis tomadas de decisão. 
+Ciência de dados, enquanto campo, existe há 30 anos, porém ganhou mais destaque nos últimos anos devido a alguns fatores como o 
+surgimento e popularização de grandes bancos de dados e o desenvolvimento de áreas como machine learning.
+
++ informações
++ poder
+= + pessoas para interpretá-las.
+
+Insight - a palavra insight vem do inglês e significa: capacidade de obter uma compreensão intuitiva precisa e profunda de uma pessoa ou coisa.
+
+Google Trendings - é uma ferramenta do Google que mostra os mais populares termos buscados em um passado recente. 
+A ferramenta apresenta gráficos com a frequência em que um termo particular é procurado em várias regiões do mundo, e em vários idiomas.
+https://trends.google.com.br/trends/?geo=BR
+
+Data science pode ser aplicada em diversas áreas como : varejo, reconhecimento de voz, saúde, comunicação, segurança, ...
+
+
+
